@@ -1,1 +1,1 @@
-# crispy-octo-parakeet
+# kakaotalk-clone
